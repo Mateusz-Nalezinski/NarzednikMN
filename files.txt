@@ -1,1 +1,3 @@
 mvba/Geoportal.mvba
+mvba/GUI.mvba
+mvba/Odnośnik.mvba
