@@ -1,0 +1,1 @@
+vba load "ścieżkaDoPliku\Bootstrap.mvba";vba run [Bootstrap]ShowLauncher
