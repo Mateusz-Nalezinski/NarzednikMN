@@ -1,4 +1,4 @@
 mvba/Geoportal.mvba
 mvba/GUI.mvba
 mvba/Odnośnik.mvba
-mvba/Narzednik.dgnlib
+dgnlib/Narzednik.dgnlib
